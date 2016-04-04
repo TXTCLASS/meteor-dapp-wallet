@@ -2,7 +2,7 @@
     "app": {
         "loading": "Ŝarĝo...",
         "offline": "Tie estas ne konekton, ĉu vi enreta?",
-        "logginIn": "Ensalutadon en......"
+        "logginIn": "Ensalutadon en..."
     },
     "error": {
         "insufficientRights": "Vi ne havas sufiĉe rajtigoj por tio agon."
@@ -26,7 +26,7 @@
         "with": "kun",
         "and": "kaj",
         "on": "sur",
-        "per": "per",
+        "per": "en",
         "total":"Tuta sumo",
         "at": "ĉe"
     }
